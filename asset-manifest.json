@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.651f0272.css",
+    "main.js": "/portfolio-app/static/js/main.146a688e.js",
+    "static/media/connect.jpg": "/portfolio-app/static/media/connect.86112cc2976975754752.jpg",
+    "static/media/profile.png": "/portfolio-app/static/media/profile.9a20aba94e0d4db58065.png",
+    "static/media/lacantera.jpg": "/portfolio-app/static/media/lacantera.5f953fab1b7050d8ad84.jpg",
+    "static/media/picone.jpg": "/portfolio-app/static/media/picone.c37c58eed2b021d02d40.jpg",
+    "static/media/cv.pdf": "/portfolio-app/static/media/cv.c3f988de2d5125d4fbcf.pdf",
+    "index.html": "/portfolio-app/index.html",
+    "main.651f0272.css.map": "/portfolio-app/static/css/main.651f0272.css.map",
+    "main.146a688e.js.map": "/portfolio-app/static/js/main.146a688e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651f0272.css",
+    "static/js/main.146a688e.js"
+  ]
+}
